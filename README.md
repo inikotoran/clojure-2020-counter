@@ -1,3 +1,10 @@
+# pre-req
+Install leiningen:
+```brew install leiningen```
+
+# run
+```lein run```
+
 # countdown
 
 A Clojure library designed to ... well, that part is up to you.
