@@ -33,11 +33,6 @@
   (if (< @new-year-2020 @time-now) (println "Welcome 2020!"))
 )
 
-(defn dostuff []
-  (do
-    (print "I'm doing stuff")
-    (flush)))
-
 (defn -main
   "Let's count to 2020" 
   []
